@@ -5,7 +5,7 @@ int main()
   char ch; 
 	ch=getchar(); 
 	if(islower(ch))
-	    puchar (toupper(ch));
+	     putchar(toupper(ch));
 	else 
 	    putchar(tolower(ch));
 	return 0;
