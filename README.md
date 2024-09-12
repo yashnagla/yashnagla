@@ -25,10 +25,6 @@ Hi there! 👋 I’m Yash Nagla, a data enthusiast with a passion for transformi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashnagla&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashnagla&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=yashnagla&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashnagla&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashnagla&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashnagla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
