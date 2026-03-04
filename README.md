@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi there! 👋 I’m Yash Nagla, a data enthusiast with a passion for transforming raw data into actionable insights. My expertise lies in data extraction, cleansing, and visualization, backed by a solid foundation in SQL and front-end technologies.
+Hi, I'm Yash Nagla, a Frontend Developer with experience in building responsive and visually appealing web applications.
+
+I enjoy crafting intuitive user interfaces and writing clean, maintainable code. I have hands-on experience with React, JavaScript, and modern CSS frameworks, and I enjoy collaborating with teams to create impactful digital solutions.
+
+✨ Currently working as Junior Frontend Developer at Mount Saffron (Jaipur).
 
 
 ## 🌐 Socials:
@@ -14,6 +18,8 @@ Hi there! 👋 I’m Yash Nagla, a data enthusiast with a passion for transformi
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
+
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yashnagla&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
