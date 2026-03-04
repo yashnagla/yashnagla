@@ -1,36 +1,77 @@
-# 💫 About Me:
-Hi, I'm Yash Nagla, a Frontend Developer with experience in building responsive and visually appealing web applications.
+## About Me
 
-I enjoy crafting intuitive user interfaces and writing clean, maintainable code. I have hands-on experience with React, JavaScript, and modern CSS frameworks, and I enjoy collaborating with teams to create impactful digital solutions.
+### About Me
 
-✨ Currently working as Junior Frontend Developer at Mount Saffron (Jaipur).
+- Name: **Yash Sikhwal Nagla**
+- Location: **India** 🇮🇳
+- GitHub: [@yashnagla](https://github.com/yashnagla) — active since **May 2021**
+- Open to opportunities: **Yes** (hireable)
+
+I focus on building lightweight, accessible web pages and front-end features. Many of my projects are GitHub Pages sites (portfolio pages, demos, small apps) using HTML, CSS and JavaScript. I enjoy adding polish with animations and improving user experience.
+
+Currently working on: adding scroll animations and UI polish to my personal site (branch: Feature/Adding-Animation-On-Scroll). I welcome collaboration, feedback, and opportunities to build real-world projects. 🔧
+
+## Skills & Technologies
+
+html,css,js,nodejs,git,github,npm
+
+## Top Projects
+
+### Top Projects
+
+1. [yash-nagla](https://github.com/yashnagla/yash-nagla) ⭐
+   - Description: Personal site / portfolio and UI demos implemented with JavaScript and web assets.
+   - Stars: 1 • Language: JavaScript • Forks: 0 • Watchers: 1 • Default branch: main
+
+2. [port.github.io](https://github.com/yashnagla/port.github.io) (GitHub Pages)
+   - Description: Personal portfolio / static site built with HTML and deployed via GitHub Pages.
+   - Stars: 0 • Language: HTML • Forks: 0 • Pages: enabled • Default branch: main
+
+3. [KVON](https://github.com/yashnagla/KVON)
+   - Description: A sizeable HTML project — likely a site or complex front-end resource collection.
+   - Stars: 0 • Language: HTML • Forks: 0 • Size: large repository (active content)
+
+4. [Recipe](https://github.com/yashnagla/Recipe)
+   - Description: Recipe demo / example site showcasing layout and UI techniques with HTML.
+   - Stars: 0 • Language: HTML • Forks: 0
+
+5. [weather.github.io](https://github.com/yashnagla/weather.github.io) (GitHub Pages)
+   - Description: Weather UI demo with styling and front-end logic (CSS/JS).
+   - Stars: 0 • Language: CSS • Forks: 0 • Pages: enabled
+
+Note: Projects above prioritize personal repos with visible activity, GitHub Pages usage, and repositories with measurable size or stars.
+
+## GitHub Stats
+
+### GitHub Stats 📊
+
+- Public repositories: **17**
+- Followers: **4**
+- Following: **24**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashnagla&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashnagla&layout=compact)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash.nagla) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sikhwal-nagla) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YashNagla9) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/YASH-NAGLA-SIKHWAL) 
+You can also view follower and contribution summaries on my profile: [github.com/yashnagla](https://github.com/yashnagla)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
+## Recent Activity
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Recent Activity 🔔
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashnagla&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashnagla&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashnagla&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+Here are some of my latest GitHub events (most recent first):
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashnagla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+- PushEvent to [yashnagla/yashnagla](https://github.com/yashnagla/yashnagla) — ref: `main` — 2026-03-04T05:15:29Z
+- PullRequestEvent (merged) in [yashnagla/yash-nagla](https://github.com/yashnagla/yash-nagla) — PR #1 (Feature/Adding-Animation-On-Scroll) — 2026-03-04T04:04:09Z
+- PushEvent to [yashnagla/yash-nagla](https://github.com/yashnagla/yash-nagla) — ref: `main` — 2026-03-04T04:04:10Z
+- PullRequestEvent (opened) in [yashnagla/yash-nagla](https://github.com/yashnagla/yash-nagla) — PR #1 — 2026-03-04T04:00:58Z
+- PushEvent to [yashnagla/yash-nagla](https://github.com/yashnagla/yash-nagla) — ref: `Feature/Adding-Animation-On-Scroll` — 2026-03-04T03:59:17Z
+- PushEvent to [yashnagla/yash-nagla](https://github.com/yashnagla/yash-nagla) — ref: `Feature/Adding-Animation-On-Scroll` — 2026-03-04T03:58:25Z
+- CreateEvent: branch `Feature/Adding-Animation-On-Scroll` in [yashnagla/yash-nagla](https://github.com/yashnagla/yash-nagla) — 2026-03-04T03:50:40Z
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yashnagla&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+(These events highlight active development on front-end features and site enhancements.)
 
----
-[![](https://visitcount.itsvg.in/api?id=yashnagla&icon=0&color=0)](https://visitcount.itsvg.in)
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/yash-sikhwal-nagla","twitter":"https://x.com/YashNagla9","instagram":"https://www.instagram.com/yash.nagla/"}
